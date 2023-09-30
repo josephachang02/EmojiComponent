@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "emojiscomponent",
+=======
+  "name": "emojicomponent",
+>>>>>>> 3a97f4ae24369697b393785e6e3c19faface7013
   "private": true,
   "version": "0.0.0",
   "type": "module",
